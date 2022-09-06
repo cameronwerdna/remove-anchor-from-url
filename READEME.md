@@ -1,0 +1,1 @@
+solution for codewars problem 'Remove Anchor from URL'. takes a url and removes # and anything after.
